@@ -1,8 +1,4 @@
 // Check the following program that shows even numbers (divisible by 2) between 1 and 10.
-<<<<<<< HEAD
-=======
-
->>>>>>> 942fbc322a7edcd098b3f547696662e937246c59
 for (let i = 1; i <= 10; i++) {
 	if (i % 2 === 0) {
 		console.log(`${i} is even`);
